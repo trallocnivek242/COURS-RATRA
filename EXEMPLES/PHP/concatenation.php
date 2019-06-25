@@ -3,6 +3,7 @@
 	// PS: CONCATENER VEUT DIRE ASSEMBLAGE
 	// --------------------------------------------
 	echo '<h1>La concatenatin: </h1>';
+	// -------------------------------
 
 	// EX 1: LA CONCATENATION DU BOURRIN
 	echo '<h2>La methode bourinne !!! </h2>';
@@ -14,7 +15,7 @@
 	echo ' ';
 	echo $montext;
 	echo ' ';
-	echo (isset($_GET['var']) ? $_GET['var'] : '');
+	echo (isset($_GET['var']) ? $_GET['var'] : 'pas de GET');
 
 	// EX 2: LA CONCATENATION DU MALIN A
 	echo '<h2>La methode malin A !!! </h2>';
@@ -28,13 +29,13 @@
 	$mavar = 'text';
 	$monnombre = 5;
 	echo "texte $monnombre $mavar ";
-	echo (isset($_GET['var']) ? $_GET['var'] : '');
+	echo (isset($_GET['var']) ? $_GET['var'] : 'pas de GET');
 	// ou encore
 	echo '<br>';
 	//----------
 	$mavar = 'text';
 	$monnombre = 5;
-	$macondition = (isset($_GET['var']) ? $_GET['var'] : '');
+	$macondition = (isset($_GET['var']) ? $_GET['var'] : 'pas de GET');
 	echo "texte $monnombre $mavar $macondition";
 
 	// EX 3: LA CONCATENATION DU MALIN B
@@ -45,12 +46,12 @@
 	// ---------
 	$mavar = 'text';
 	$monnombre = 5;
-	echo 'texte $monnombre $mavar (isset($_GET["var"]) ? $_GET["var"] : "")'; // => ne fonctionne pas mais ne renvoie pas d'erreur
+	echo 'texte $monnombre $mavar (isset($_GET["var"]) ? $_GET["var"] : "pas de GET")'; // => ne fonctionne pas mais ne renvoie pas d'erreur
 
 	// solution
 	echo '<h3>solution: </h3>';
 	// ---------
 	$mavar = 'text';
 	$monnombre = 5;
-	echo 'texte ' . $monnombre . ' ' . $mavar . (isset($_GET['var']) ? $_GET['var'] : '');
+	echo 'texte ' . $monnombre . ' ' . $mavar . ' ' . (isset($_GET['var']) ? $_GET['var'] : 'pas de GET');
 ?>
