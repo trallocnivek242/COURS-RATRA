@@ -32,6 +32,8 @@ ___text bold and italic___
 
 __*text bold and italic*__
 
+mon texte est <span style="color:blue;">bleu</span>
+
 > # titre citation
 > citation
 > > une reponse a la citation
