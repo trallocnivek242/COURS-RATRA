@@ -95,7 +95,7 @@ suite du paragraphe
 
 nouveau paragraphe
 
-ancre pour footnote [^1]
+ancre pour [footnote][^1]
 
 [^1]: footnote
 
