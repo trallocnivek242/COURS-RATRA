@@ -46,6 +46,7 @@ __*text bold and italic*__
 - elem 1 liste desordonee
 	* elem 1 elem 1
 * elem 2 liste desordonee
++ elem 3 liste desordonee
 
 la fonction `printf()` permet d'afficher du texte
 
