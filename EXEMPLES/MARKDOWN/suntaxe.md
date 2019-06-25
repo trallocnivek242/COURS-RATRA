@@ -57,7 +57,7 @@ la fonction `printf()` permet d'afficher du texte
 		return 0;
 	}
 
-```
+```json
 {
 	"firstname": 'john',
 	"lastname": "doe",
