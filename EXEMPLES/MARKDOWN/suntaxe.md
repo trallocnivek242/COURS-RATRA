@@ -107,6 +107,8 @@ ancre pour [footnote][^1]
 term
 : definition
 
+<!-- commentaire ? -->
+
 ~~le monde est plat~~
 
 - [x] checked
