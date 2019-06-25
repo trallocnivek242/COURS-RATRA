@@ -1,30 +1,36 @@
 # COURS-RATTRAPAGE-KC-IFOSUP
 IFOSUP INFOS DEVELOPPEUR 2018-2019-2020
 
-Tous les pdfs sur github son dans pdf/
+## github desktop
+https://desktop.github.com/
 
-dans HTML_CSS => 
-13666-apprenez-a-creer-votre-site-web-avec-html5-et-css3.pdf
+## Zone PDF
+Tous les pdfs sur github son dans pdf/
+ ### les PDF disponibles en ligne ou en livre (voir meme en ebook) sur le site d'openclassrooms (https://openclassrooms.com/fr/dashboard)
+* dans HTML_CSS => 
+  * 13666-apprenez-a-creer-votre-site-web-avec-html5-et-css3.pdf
+
 548986-stylisez-votre-site-avec-css3.pdf
 
-dans JQUERY =>
-689034-simplifiez-vos-developpements-javascript-avec-jquery.pdf
+* dans JQUERY =>
+  * 689034-simplifiez-vos-developpements-javascript-avec-jquery.pdf
 
-dans JS =>
-309961-dynamisez-vos-sites-web-avec-javascript.pdf
+* dans JS =>
+  * 309961-dynamisez-vos-sites-web-avec-javascript.pdf
 
-dans MYSQL =>
-464494-administrez-vos-bases-de-donnees-avec-mysql.pdf
+* dans MYSQL =>
+  * 464494-administrez-vos-bases-de-donnees-avec-mysql.pdf
 
-dans PHP =>
-147180-programmez-en-oriente-objet-en-php.pdf
-517569-developpez-votre-site-web-avec-le-framework-symfony2.pdf
+* dans PHP =>
+  * 147180-programmez-en-oriente-objet-en-php.pdf
 
-dans PHP_MYSQL =>
-14668-concevez-votre-site-web-avec-php-et-mysql.pdf
+  * 517569-developpez-votre-site-web-avec-le-framework-symfony2.pdf
 
-dans REFERENCEMENT =>
-636399-ameliorez-la-visibilite-de-votre-site-grace-au-referencement.pdf
+* dans PHP_MYSQL =>
+  * 14668-concevez-votre-site-web-avec-php-et-mysql.pdf
+
+* dans REFERENCEMENT =>
+  * 636399-ameliorez-la-visibilite-de-votre-site-grace-au-referencement.pdf
 
 
 
