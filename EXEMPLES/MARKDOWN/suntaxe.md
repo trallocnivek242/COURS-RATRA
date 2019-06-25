@@ -59,7 +59,7 @@ la fonction `printf()` permet d'afficher du texte
 
 ```json
 {
-	"firstname": 'john',
+	"firstname": "john",
 	"lastname": "doe",
 	"age": 25
 }
