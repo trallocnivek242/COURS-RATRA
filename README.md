@@ -1,6 +1,10 @@
 # COURS-RATTRAPAGE-KC-IFOSUP
 IFOSUP INFOS DEVELOPPEUR 2018-2019-2020
 
+## github desktop
+https://desktop.github.com/
+
+
 Tous les pdfs sur github son dans pdf/
 
 dans HTML_CSS => 
