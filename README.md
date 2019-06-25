@@ -37,6 +37,6 @@ Tous les pdfs sur github son dans pdf/
 
 
 
-pour pouvoir commander les livres d'openclassrooms, [il faut aller ici](https://www.eyrolles.com/Informatique/Collection/15932/openclassrooms/) mais fait car sur cette page tu ne les verra pas tous... il faut un peu rechercher dans ce site
+pour pouvoir commander les livres d'openclassrooms, [il faut aller ici](https://www.eyrolles.com/Informatique/Collection/15932/openclassrooms/) mais faire gaffe car sur cette page tu ne les verra pas tous... il faut un peu rechercher dans ce site
 
 et pour voir les cours qui peuvent etres utiles => [aller voir ici](https://openclassrooms.com/fr/search?page=1&categories=D%C3%A9veloppement&type=course)
