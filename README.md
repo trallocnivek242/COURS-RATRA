@@ -4,6 +4,9 @@ IFOSUP INFOS DEVELOPPEUR 2018-2019-2020
 ## github desktop
 https://desktop.github.com/
 
+## Zone Exemples
+Ne pas hésiter à aller voir de temps en temps (car il y aurra pas mal de m-à-j les prochains jours ... )
+
 ## Zone PDF
 Tous les pdfs sur github son dans pdf/
  ### les PDF disponibles en ligne ou en livre (voir meme en ebook) sur le site d'openclassrooms (https://openclassrooms.com/fr/dashboard)
