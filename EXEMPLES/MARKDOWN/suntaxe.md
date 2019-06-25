@@ -89,6 +89,9 @@ du texte et soudain une [image][1]
 | ------     |:-----------:| -----:|
 | header     | title       | 60€   |
 | paragraphe | text        | 5.45€ |
+|------------+-------------+-------|
+| second     | body        | 4.50€ |
+{: .custom-class #custom-id}
 
 paragraphe
 suite du paragraphe
