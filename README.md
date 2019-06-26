@@ -7,6 +7,10 @@ IFOSUP INFOS DEVELOPPEUR 2018-2019-2020
 ## Markdown test
 <https://daringfireball.net/projects/markdown/dingus>
 
+## Quelques outils
+
+https://autoprefixer.github.io/
+
 ## Zone [Exemples](https://github.com/trallocnivek242/COURS-RATTRAPAGE-KC-IFOSUP/tree/master/EXEMPLES)
 Ne pas hésiter à aller voir de temps en temps (car il y aurra pas mal de m-à-j les prochains jours ... )
 
